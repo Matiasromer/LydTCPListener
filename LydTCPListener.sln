@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LydTCPListener", "LydTCPListener\LydTCPListener.csproj", "{05C33934-90D4-4CB5-8706-3540A8CEA0B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C33934-90D4-4CB5-8706-3540A8CEA0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C33934-90D4-4CB5-8706-3540A8CEA0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C33934-90D4-4CB5-8706-3540A8CEA0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C33934-90D4-4CB5-8706-3540A8CEA0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF756284-23B3-4D81-96AF-8A924DB7B911}
+	EndGlobalSection
+EndGlobal
